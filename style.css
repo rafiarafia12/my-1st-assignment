@@ -32,7 +32,7 @@ p {
 }
 .image-1 {
   width: 80%;
-  height: 70%;
+  height: 75%;
   padding-left: 70px;
 }
 .link-open {
@@ -69,4 +69,16 @@ footer {
 .third-width image {
   font-size: 10%;
   padding-left: 20px;
+}
+
+.fiv-width {
+  width: 90%;
+  box-shadow: 10px 10px 40px black;
+  border-radius: 40px;
+  margin: auto;
+  display: flex;
+}
+.text-1 {
+  text-align: center;
+  width: 100%;
 }
